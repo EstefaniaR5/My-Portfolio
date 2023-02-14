@@ -1,0 +1,45 @@
+.header {
+    background-color:teal;
+    color:antiquewhite;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.body2 {
+    background-color: rgb(255, 255, 255);
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    border-radius: 10px;
+    border: 12px solid #4bd8eaaf;
+}
+
+#title-1 {
+    font-weight: 600;
+    font-size: 4em;
+    /*text-decoration:underline;*/
+    letter-spacing: 7px;
+}
+
+#title-2 {
+    font-weight: 500;
+    font-size: 3em;
+    letter-spacing: 3px;
+}
+
+#subtitle{
+    font-weight: 300;
+    font-size: 2em;
+    letter-spacing: 2px;
+}
+#text {
+    font-weight: 600;
+    font-size: 1em;
+    letter-spacing: 2px;
+}
